@@ -1,0 +1,4 @@
+{
+    "emmet.excludeLanguages": [],
+    "javascript.suggest.completeFunctionCalls": true
+}
